@@ -37,3 +37,36 @@
         background-position-y: 200px;
     }    
 }
+@media (max-width: 900px) {
+    #page-home header {
+        margin-bottom: 30px;
+        flex-flow: column wrap;
+    }
+    #page-home header a {
+         position: unset;
+         top: unset; 
+         left: unset; 
+         transform: unset; 
+         margin-top: 20px;
+    }
+    #page-home main {
+        flex: unset;
+        
+    }
+    #page-home main h1 {
+        font-size: 38px;
+    }
+    #page-home main p {
+        font-size: 18px;
+        line-height: 32px;
+    }
+}
+@media only screen and (min-width: 901px) and (max-width: 1024px) {
+     #page-home {
+        background-size: 600px;
+        background-position: right bottom;
+    }
+    #page-home main {
+        max-width: 435px;
+    }
+}
