@@ -42,5 +42,4 @@ O projeto foi desenvolvido com as seguintes tecnologias
 <h1 align="center"> 
   <img src="https://i.imgur.com/4HI2nfp.png">
 </h1>
-[Ecoleta](https://eccoleta.herokuapp.com/)
-- [Ecoleta](https://eccoleta.herokuapp.com/)
+- URL: https://eccoleta.herokuapp.com/
