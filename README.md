@@ -15,7 +15,7 @@ Projeto desenvolvido na semana da **Next Level Week** da **Rockeatseat**. O gran
 ## 🚀 Tecnologias utilizadas
 O projeto foi desenvolvido com as seguintes tecnologias
 - HTML
-- CSS
+- [CSS](https://eccoleta.herokuapp.com/)
 - [Javascript](https://www.javascript.com/)
 - [NodeJS](https://nodejs.org/)
 
