@@ -36,9 +36,9 @@ O projeto foi desenvolvido com as seguintes tecnologias
   # Iniciar o projeto
   $ yarn start
 ```
-# 📌 
+## 📌 Site
 
 <h1 align="center"> 
   <img src="https://i.imgur.com/4HI2nfp.png">
 </h1>
-- URL: https://eccoleta.herokuapp.com
+- [Ecoleta](https://eccoleta.herokuapp.com)
