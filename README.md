@@ -36,6 +36,7 @@ O projeto foi desenvolvido com as seguintes tecnologias
   # Iniciar o projeto
   $ yarn start
 ```
+---
 ## 📌 Site
 
 <h1 align="center"> 
