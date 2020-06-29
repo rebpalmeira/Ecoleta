@@ -45,11 +45,6 @@ O projeto foi desenvolvido com as seguintes tecnologias
 
 ---
 
-## 🚀 Tecnologias utilizadas
-O projeto foi desenvolvido com as seguintes tecnologias
-- HTML
-- CSS
-- [Javascript](https://www.javascript.com/)
-- [NodeJS](https://nodejs.org/)
+- [Ecoleta](https://eccoleta.herokuapp.com/)
 
 - URL: https://eccoleta.herokuapp.com/
