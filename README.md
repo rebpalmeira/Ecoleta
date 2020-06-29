@@ -47,4 +47,3 @@ O projeto foi desenvolvido com as seguintes tecnologias
 
 - [Ecoleta](https://eccoleta.herokuapp.com/)
 
-- URL: https://eccoleta.herokuapp.com/
