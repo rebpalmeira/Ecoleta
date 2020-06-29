@@ -42,7 +42,9 @@ O projeto foi desenvolvido com as seguintes tecnologias
 <h1 align="center"> 
   <img src="https://i.imgur.com/4HI2nfp.png">
 </h1>
+
 ---
+
 ## 🚀 Tecnologias utilizadas
 O projeto foi desenvolvido com as seguintes tecnologias
 - HTML
