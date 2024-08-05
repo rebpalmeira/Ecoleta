@@ -1,14 +1,5 @@
-<h1 align="center"> 
-  <img src="https://ik.imagekit.io/oj7trck322/Launchbase_v2WBWPmh4.png">
-</h1>
-
 ## 🔖 Sobre
-Projeto feito durante a Next Level Week.
-
----
-
-## 📌 Objetivo
-Projeto desenvolvido na semana da **Next Level Week** da **Rockeatseat**. O grande objetivo deste projeto é dar uma base nos estudos de frontend e backend. 
+Ecoleta - é uma forma de conectar empresas e entidades de coleta de resíduos orgânicos e inorgânicos as pessoas que precisam descartar seus resíduos de maneira ecológica.
 
 ---
 
